@@ -31,6 +31,5 @@ We will build 4 different models – Decision Trees, Logistic Regression , Adabo
 Decision Tree Model model has a fairly low accuracy in determining churning rate of the customer
 Logistic regression model, which is overall slightly better performer in terms of predicting churners but it's miss-classification rate is too high.
 Random Forest Model whose miss-classification rate for predicting churners is 3rd lowest and also overall mis-classification rate is also low.
-Ada Boost Model whose miss-classification rate for predicting churners is 2nd lowest and also overall mis-classification rate is also lowest. Till this point, we have AdaBoostClassifier as best model with miss-classification of 351 points in total.
-
+Ada Boost Model whose miss-classification rate for predicting churners is 2nd lowest is the best model
 
